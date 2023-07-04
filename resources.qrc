@@ -1,0 +1,77 @@
+<RCC>
+    <qresource>
+        <file>Resources/Picture/Hero/demonessa1.png</file>
+        <file>Resources/Picture/Hero/demonessa2.png</file>
+        <file>Resources/Picture/Hero/demonessa3.png</file>
+        <file>Resources/Picture/Hero/demonessa4.png</file>
+        <file>Resources/Picture/Hero/demonessa5.png</file>
+        <file>Resources/Picture/Hero/demonessa6.png</file>
+
+        <file>Resources/Picture/Wings/wings1.png</file>
+        <file>Resources/Picture/Wings/wings2.png</file>
+        <file>Resources/Picture/Wings/wings3.png</file>
+        <file>Resources/Picture/Wings/wings4.png</file>
+        <file>Resources/Picture/Wings/wings5.png</file>
+        <file>Resources/Picture/Wings/wings6.png</file>
+
+        <file>Resources/Picture/StaticObject/boiler.png</file>
+        <file>Resources/Picture/StaticObject/horizontal_wall.png</file>
+        <file>Resources/Picture/StaticObject/vertical_wall.png</file>
+        <file>Resources/Picture/StaticObject/lava.png</file>
+        <file>Resources/Picture/StaticObject/Knife.png</file>
+        <file>Resources/Picture/StaticObject/Health.png</file>
+
+        <file>Resources/Picture/Fireball/born_fireball1.png</file>
+        <file>Resources/Picture/Fireball/born_fireball2.png</file>
+        <file>Resources/Picture/Fireball/born_fireball3.png</file>
+        <file>Resources/Picture/Fireball/born_fireball4.png</file>
+
+        <file>Resources/Picture/Fireball/fireball1.png</file>
+        <file>Resources/Picture/Fireball/fireball2.png</file>
+        <file>Resources/Picture/Fireball/fireball3.png</file>
+        <file>Resources/Picture/Fireball/fireball4.png</file>
+        <file>Resources/Picture/Fireball/fireball5.png</file>
+        <file>Resources/Picture/Fireball/fireball6.png</file>
+        <file>Resources/Picture/Fireball/fireball7.png</file>
+
+        <file>Resources/Picture/Menu/hell.jpg</file>
+        <file>Resources/Picture/Menu/sound_on.png</file>
+        <file>Resources/Picture/Menu/sound_off.png</file>
+        <file>Resources/Picture/Menu/language.png</file>
+        <file>Resources/Picture/Menu/settings.png</file>
+        <file>Resources/Picture/Menu/continue_button.png</file>
+        <file>Resources/Picture/Menu/start_button.png</file>
+        <file>Resources/Picture/Menu/exit_button.png</file>
+        <file>Resources/Picture/Menu/settings_button.png</file>
+
+         <file>Resources/Picture/Npc/npc_left_fight1.png</file>
+         <file>Resources/Picture/Npc/npc_left_fight2.png</file>
+         <file>Resources/Picture/Npc/npc_left_fight3.png</file>
+         <file>Resources/Picture/Npc/npc_fight1.png</file>
+         <file>Resources/Picture/Npc/npc_fight2.png</file>
+         <file>Resources/Picture/Npc/npc_fight3.png</file>
+         <file>Resources/Picture/Npc/npc1.png</file>
+         <file>Resources/Picture/Npc/npc2.png</file>
+         <file>Resources/Picture/Npc/npc3.png</file>
+         <file>Resources/Picture/Npc/npc4.png</file>
+         <file>Resources/Picture/Npc/npc_left1.png</file>
+         <file>Resources/Picture/Npc/npc_left2.png</file>
+         <file>Resources/Picture/Npc/npc_left3.png</file>
+         <file>Resources/Picture/Npc/npc_left4.png</file>
+
+         <file>Resources/Picture/Menu/defeat.jpg</file>
+         <file>Resources/Picture/Menu/victory.jpg</file>
+         <file>Resources/Picture/Menu/icon.png</file>
+         <file>Resources/Picture/Menu/to_menu_button.png</file>
+
+        <file>Resources/Jsons/boilers_data.json</file>
+
+        <file>Resources/Music/appearance.mp3</file>
+        <file>Resources/Music/background.mp3</file>
+        <file>Resources/Music/hit.mp3</file>
+        <file>Resources/Music/menu.mp3</file>
+        <file>Resources/Music/shot.mp3</file>
+        <file>Resources/Music/victory.mp3</file>
+        <file>Resources/Music/defeat.mp3</file>
+    </qresource>
+</RCC>
