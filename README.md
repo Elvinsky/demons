@@ -2,22 +2,6 @@
 ___
 **Demons** - некоммерческая 2D игра в жанре «hack-and-slash», написанная на C++ с
 использованием Qt Framework.
-
-Игра является учебным проектом студентов 5 группы 1 курса
-Факультета Прикладной Математики и Информатики БГУ (2 семестр 2021-2022)
-
-Участники команды:
-
-+ Полина Костюкович ([@polina-kostyukovich](https://github.com/polina-kostyukovich))
-+ Ирина Воронкина ([@Iren137](https://github.com/Iren137))
-+ Дмитрий Рудович ([@Lomcka](https://github.com/Lomcka))
-+ Александр Билиба ([@alexbiliba](https://github.com/alexbiliba))
-
-Любимые менторы:
-
-+ Екатерина Самосюк ([@sherri-ice](https://github.com/sherri-ice))
-+ Максим Лицкевич ([@Zzzabiyaka](https://github.com/Zzzabiyaka))
-
 ## Описание игры
 ___
 
